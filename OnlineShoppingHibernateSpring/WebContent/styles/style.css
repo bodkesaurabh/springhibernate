@@ -1,0 +1,60 @@
+p{
+	font-size:3em;
+	text-align:center;
+	text-decoration:underline;
+	line-height:80px;
+	word-spacing:2mm;
+	letter-spacing:1pc;
+	color:green;
+	font-family:FANTASY,Garamond,cursive,;
+	font-weight:bolder;
+	font-style: italic;
+}
+#myCanvas{
+	/*border:1px solid #000;*/
+	border-width: 2px;
+	border-style: groove;
+	border-color: navy;
+	margin-left: 20px;
+}
+body{
+	
+	background-image: url("../images/download.jpg");
+	background-repeat: no-repeat;
+	background-position: inherit;
+}
+.c1{
+	color: orange;
+	text-decoration: underline;
+	font-size: 35pt;
+}
+.c2{
+	color:maroon;
+	font-size: 40pt;
+}
+
+#pid{
+	color:maroon;
+	
+}
+.txt{
+	
+	text-align: center;
+	font-size:30px;
+}
+.clr{
+	background-color: gray;
+	color: lime;
+	text-decoration: overline underline line-through;
+	
+}
+ol{
+	list-style-type: lower-greek;
+}
+ul{
+	list-style-type: decimal-leading-zero;
+	
+}
+h2{
+	/*background-color:aqua;*/
+}

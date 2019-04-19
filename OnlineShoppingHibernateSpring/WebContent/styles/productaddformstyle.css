@@ -1,0 +1,78 @@
+.productcontainer{
+	
+	border:10px solid #000;
+	border-radius: 3px;
+	padding-top: 10px;
+	padding-left: 5px;
+	padding-right: 35px;
+	padding-bottom: 5px;
+	width: 50%;
+	background-color: gray;
+	margin-top: 50px;
+	margin-left: 230px;
+	font-family: cursive;
+	font-size: 20px;
+}
+#pnm{
+	width: 100%;
+	padding: 10px;
+	border-radius: 5px;
+	margin: 5px;
+	display: inline-block;
+	box-sizing: inherit;
+	background-color: teal;
+	color:white;
+}
+#pid{
+	width: 100%;
+	padding: 10px;
+	border-radius: 5px;
+	margin: 5px;
+	display: inline-block;
+	box-sizing: inherit;
+	background-color: teal;
+	color:white;
+}
+
+#pbr{
+	width: 100%;
+	padding: 10px;
+	border-radius: 5px;
+	margin: 5px;
+	background-color: teal;
+	color:white;
+	display: inline-block;
+	box-sizing: inherit;
+}
+#ppr{
+	width: 100%;
+	padding: 10px;
+	border-radius: 5px;
+	margin: 5px;
+	background-color: teal;
+	color:white;
+	display: inline-block;
+	box-sizing: inherit;
+}
+input[type=Submit]{
+	width: 50%;
+	cursor: pointer;
+	background-color: #ddd;
+	color:black;
+	padding: 10px;
+	border-radius: 10px;
+	margin-left: 145px;
+	font-family: cursive;
+	font-size: 20px;
+}
+input[type=reset]{
+	width: 50%;
+	cursor: pointer;
+	background-color: #ddd;
+	color:black;
+	padding: 10px;
+	border-radius: 10px;
+	margin-left: 145px;
+	font-family: cursive;
+	font-size: 20px;
+}
